@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lcxpx/Da2wBYZpbydnyD+J191T9HBSvu5dUoGGOKDup6NKYXEbZkZ39DiCJ868ERcIONC+PgRp/CZmyeV1V4cg==",
+  "success": true,
+  "projectFilePath": "/Users/stelselim/Desktop/object-final/question3/question3.csproj",
+  "expectedPackageFiles": [
+    "/Users/stelselim/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

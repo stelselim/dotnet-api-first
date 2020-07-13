@@ -1,0 +1,14 @@
+/Users/stelselim/Desktop/object-final/question3/bin/Debug/netcoreapp3.1/question3.deps.json
+/Users/stelselim/Desktop/object-final/question3/bin/Debug/netcoreapp3.1/question3.runtimeconfig.json
+/Users/stelselim/Desktop/object-final/question3/bin/Debug/netcoreapp3.1/question3.runtimeconfig.dev.json
+/Users/stelselim/Desktop/object-final/question3/bin/Debug/netcoreapp3.1/question3.dll
+/Users/stelselim/Desktop/object-final/question3/bin/Debug/netcoreapp3.1/question3.pdb
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.csprojAssemblyReference.cache
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.csproj.CoreCompileInputs.cache
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.AssemblyInfoInputs.cache
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.AssemblyInfo.cs
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.dll
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.pdb
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.genruntimeconfig.cache
+/Users/stelselim/Desktop/object-final/question3/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/stelselim/Desktop/object-final/question3/obj/Debug/netcoreapp3.1/question3.csproj.CopyComplete
